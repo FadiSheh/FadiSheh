@@ -6,9 +6,11 @@ I build software, automate workflows, and enjoy turning complex ideas into pract
 
 I work on open-source software and enjoy building practical systems that solve real problems.
 
-I’m particularly interested in embedded development, automation, workflow design, and internal tooling. I like connecting systems together, simplifying complexity, and making things more reliable and maintainable. 🔧
+I'm particularly interested in embedded development, automation, workflow design, and internal tooling. I like connecting systems together, simplifying complexity, and making things more reliable.
 
-I’m also curious about blockchain projects and very interested in hydroponics. 🌱
+I'm also curious about blockchain projects and very interested in hydroponics. 🌱
+
+**Pro Account:** https://github.com/fshehadeh-sfl
 
 ## 💻 Tech stack
 
