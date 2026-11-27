@@ -1,34 +1,56 @@
-# Hi there, I'm Fadi 👋
+# Fadi Shehadeh
 
-I build software, automate workflows, and enjoy turning complex ideas into practical systems. ⚙️
+Embedded & software engineer based in Palestine, working with teams in
+**Europe, the Americas and the Middle East**.
 
-## 🚀 About me 
+I design, build and maintain software for embedded and Linux-based systems,
+as well as the tooling, automation and applications around them.
+I focus on clean architecture, maintainable code and reliable delivery.
 
-I work on open-source software and enjoy building practical systems that solve real problems.
+---
 
-I'm particularly interested in embedded development, automation, workflow design, and internal tooling. I like connecting systems together, simplifying complexity, and making things more reliable.
+### What I can help with
 
-I'm also curious about blockchain projects and very interested in hydroponics. 🌱
+**Embedded & Linux software**
+Software for embedded and Linux-based products, from system-level code to
+user-facing applications.
+- Development of new features and applications
+- Maintenance, debugging and improvement of existing codebases
+- Integration of software components into a complete product
 
-**Pro Account:** https://github.com/fshehadeh-sfl
+**Build, delivery & software quality**
+Making development faster, more predictable and safer.
+- Continuous integration and automated delivery pipelines
+- Build and release automation
+- Automated testing and vulnerability monitoring
 
-## 💻 Tech stack
+**Automation & AI integrations**
+Saving teams time by connecting tools and automating repetitive work.
+- AI assistants connected to internal tools, data and APIs
+- Workflow automation and internal tooling
+- Prototypes to quickly validate an idea
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,qt,python,ts,nodejs,linux,docker,jenkins,git&perline=10" />
-</p>
+**Web & internal tools**
+Supporting applications around products and teams.
+- Web applications and dashboards
+- APIs and service integrations
 
-## ✨ What I enjoy working on 
+---
 
-- open-source projects
-- practical engineering problems
-- workflow automation
-- internal tools and orchestration
-- embedded and systems-oriented software
-- blockchain-related products and experiments
+### How I work
 
-## 📊 GitHub stats 
+- **Time zones:** overlap with European, American and Middle East business hours
+- **Communication:** English and French, regular written updates
+- **Approach:** small iterations, documented code, easy handover
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FadiSheh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&commits_year=2026" alt="GitHub stats for 2026" />
-</p>
+### Stack
+
+C · C++ · Qt · Python · TypeScript · Linux · Git
+
+### Let's talk
+
+Whether you have a project in mind, need a hand on an existing one, or just want
+to exchange ideas about embedded systems, software or tech in general,
+feel free to reach out. I'm always happy to chat.
+
+[LinkedIn](https://www.linkedin.com/in/fadishehadeh/)
