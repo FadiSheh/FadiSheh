@@ -1,16 +1,16 @@
 # Hi, I'm Fadi 👋
 
-**Embedded systems & software engineer** · 📍 Palestine · 🌍 Working with teams across Europe, the Americas and the Middle East
+**Embedded systems & software engineer** based in Palestine, working with teams across Europe, the Americas and the Middle East.
 
 I build reliable software for embedded and Linux-based systems, connected devices and the tools around them.
 
 ### 🛠️ What I do
 
-- 🔌 **Embedded & Linux:** software for embedded and Linux-based products
-- 🌐 **Networks & communication:** protocols and connected devices
-- 🛡️ **Security & quality:** vulnerability assessment, testing, CI
-- 🤖 **AI agents & automation:** AI integrated into engineering workflows
-- 💻 **Web & internal tools:** dashboards, APIs, integrations
+- **Embedded & Linux:** development, maintenance and integration of software for embedded and Linux-based products
+- **Networks & communication:** communication protocols and connected devices, from the device to the back-end
+- **Security & quality:** vulnerability assessment, automated testing and continuous integration
+- **AI agents & automation:** AI agents and automations integrated into existing engineering workflows
+- **Web & internal tools:** dashboards, APIs and integrations that support products and teams
 
 ### ⚙️ Stack
 
@@ -20,7 +20,9 @@ I build reliable software for embedded and Linux-based systems, connected device
 
 ### 🤝 How I work
 
-🕒 EU · Americas · Middle East hours &nbsp;|&nbsp; 🗣️ English · French · Arabic &nbsp;|&nbsp; 📄 Clean, documented code
+- Overlap with European, American and Middle East business hours
+- English, French and Arabic
+- Small iterations, clean and documented code, easy handover
 
 ### 💬 Let's talk
 
