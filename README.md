@@ -1,34 +1,41 @@
 # Fadi Shehadeh
 
-Embedded & software engineer based in Palestine, working with teams in
+Embedded systems & software engineer based in Palestine, working with teams in
 **Europe, the Americas and the Middle East**.
 
 I design, build and maintain software for embedded and Linux-based systems,
-as well as the tooling, automation and applications around them.
-I focus on clean architecture, maintainable code and reliable delivery.
+connected devices and networks, as well as the tooling, automation and
+AI-driven workflows around them. I focus on clean architecture,
+maintainable code and reliable delivery.
 
 ---
 
 ### What I can help with
 
 **Embedded & Linux software**
-Software for embedded and Linux-based products, from system-level code to
-user-facing applications.
-- Development of new features and applications
-- Maintenance, debugging and improvement of existing codebases
+Software for embedded and Linux-based products, from low-level code to
+complete applications.
+- Development of new features, hardware interfaces and applications
+- Maintenance, refactoring and testing of existing codebases
 - Integration of software components into a complete product
 
-**Build, delivery & software quality**
-Making development faster, more predictable and safer.
-- Continuous integration and automated delivery pipelines
-- Build and release automation
-- Automated testing and vulnerability monitoring
+**Networks & communication**
+Making devices and systems talk to each other reliably.
+- Communication protocols for connected and industrial devices
+- Networked and IoT systems, from device to back-end
+- Background in telecommunication networks
 
-**Automation & AI integrations**
-Saving teams time by connecting tools and automating repetitive work.
+**Software security & quality**
+Keeping products reliable and secure over time.
+- Vulnerability assessment of software components
+- Support for security and regulatory requirements in embedded products
+- Automated testing and continuous integration
+
+**AI agents & automation**
+Practical AI that plugs into engineering workflows and existing tools.
+- AI agents for code generation, code review and developer tooling
 - AI assistants connected to internal tools, data and APIs
 - Workflow automation and internal tooling
-- Prototypes to quickly validate an idea
 
 **Web & internal tools**
 Supporting applications around products and teams.
@@ -40,12 +47,12 @@ Supporting applications around products and teams.
 ### How I work
 
 - **Time zones:** overlap with European, American and Middle East business hours
-- **Communication:** English and French, regular written updates
+- **Languages:** English, French and Arabic
 - **Approach:** small iterations, documented code, easy handover
 
 ### Stack
 
-C · C++ · Qt · Python · TypeScript · Linux · Git
+C · C++ · Qt · Python · TypeScript · Linux · Yocto · Git
 
 ### Let's talk
 
